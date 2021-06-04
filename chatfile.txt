@@ -1,0 +1,1042 @@
+OptimisticExquisite:e4
+OptimisticExquisite:e5
+OptimisticExquisite:Nf6
+OptimisticExquisite:d5
+OptimisticExquisite:e4
+OptimisticExquisite:e6
+OptimisticExquisite:exd4
+OptimisticExquisite:d6
+OptimisticExquisite:e6
+OptimisticExquisite:e4
+OptimisticExquisite:Nf4
+OptimisticExquisite:e4
+OptimisticExquisite:e7
+OptimisticExquisite:Nc6
+OptimisticExquisite:Nc6
+OptimisticExquisite:Nc6
+OptimisticExquisite:Nc6
+OptimisticExquisite:Nc6
+OptimisticExquisite:e7
+OptimisticExquisite:Nc5
+OptimisticExquisite:Nc6
+OptimisticExquisite:Nc6
+OptimisticExquisite:e6
+OptimisticExquisite:e4
+OptimisticExquisite:e6
+OptimisticExquisite:e4
+OptimisticExquisite:e6
+OptimisticExquisite:Nc4
+OptimisticExquisite:e4
+OptimisticExquisite:e6
+OptimisticExquisite:Nc4
+OptimisticExquisite:e4
+OptimisticExquisite:e6
+OptimisticExquisite:Nc4
+OptimisticExquisite:e4
+OptimisticExquisite:e6
+OptimisticExquisite:Nc4
+OptimisticExquisite:e4
+OptimisticExquisite:e6
+OptimisticExquisite:Nc4
+OptimisticExquisite:e4
+OptimisticExquisite:e4
+OptimisticExquisite:Nf4
+OptimisticExquisite:e4
+OptimisticExquisite:e6
+OptimisticExquisite:e5
+OptimisticExquisite:e6
+OptimisticExquisite:e4
+OptimisticExquisite:e4
+OptimisticExquisite:e6
+OptimisticExquisite:d4
+OptimisticExquisite:d4
+OptimisticExquisite:d4
+OptimisticExquisite:d4
+OptimisticExquisite:d4
+OptimisticExquisite:d4
+OptimisticExquisite:d4
+OptimisticExquisite:d4
+OptimisticExquisite:d4
+OptimisticExquisite:d4
+OptimisticExquisite:d4
+OptimisticExquisite:d4
+OptimisticExquisite:d4
+OptimisticExquisite:d5
+OptimisticExquisite:d5
+OptimisticExquisite:d5
+OptimisticExquisite:d5
+OptimisticExquisite:d5
+OptimisticExquisite:d5
+OptimisticExquisite:d5
+Nubairshah Shaikh:d4
+Nubairshah Shaikh:Ne6
+Nubairshah Shaikh:0-0
+Nubairshah Shaikh:0-0-0
+Nubairshah Shaikh:Bd5
+Nubairshah Shaikh:dxe6
+Nubairshah Shaikh:Ng5
+Nubairshah Shaikh:Nf4
+Nubairshah Shaikh:Nf6
+Nubairshah Shaikh:Nf3
+Nubairshah Shaikh:e4
+Nubairshah Shaikh:e4
+Nubairshah Shaikh:e4
+Nubairshah Shaikh:e4
+Nubairshah Shaikh:e4
+Nubairshah Shaikh:e4
+Nubairshah Shaikh:bc4
+Nubairshah Shaikh:Bc4
+Nubairshah Shaikh:bc4
+Nubairshah Shaikh:Bc4
+Nubairshah Shaikh:bc4
+Nubairshah Shaikh:Bc4
+Nubairshah Shaikh:bc4
+Nubairshah Shaikh:Bc4
+Nubairshah Shaikh:bc4
+Nubairshah Shaikh:Bc4
+Nubairshah Shaikh:bc4
+Nubairshah Shaikh:Bc4
+Nubairshah Shaikh:bc4
+Nubairshah Shaikh:Bc4
+Nubairshah Shaikh:e4
+Nubairshah Shaikh:e4
+Nubairshah Shaikh:e4
+Nubairshah Shaikh:e4
+Nubairshah Shaikh:e4
+Nubairshah Shaikh:e4
+Nubairshah Shaikh:e4
+Nubairshah Shaikh:e4
+Nubairshah Shaikh:e4
+Nubairshah Shaikh:e4
+Nubairshah Shaikh:e4
+Nubairshah Shaikh:e4
+Nubairshah Shaikh:e4
+Nubairshah Shaikh:e4
+Nubairshah Shaikh:e4
+Nubairshah Shaikh:e4
+Nubairshah Shaikh:e4
+OptimisticExquisite:e6
+OptimisticExquisite:e6
+OptimisticExquisite:e6
+OptimisticExquisite:e6
+OptimisticExquisite:e6
+OptimisticExquisite:e6
+OptimisticExquisite:e6
+OptimisticExquisite:e6
+OptimisticExquisite:e4
+OptimisticExquisite:e5
+OptimisticExquisite:Ne6
+OptimisticExquisite:Nc4
+OptimisticExquisite:e4
+OptimisticExquisite:e5
+OptimisticExquisite:Nf6
+OptimisticExquisite:Nc3
+OptimisticExquisite:Nf4
+OptimisticExquisite:e4
+OptimisticExquisite:e4
+OptimisticExquisite:e5
+OptimisticExquisite:Nf4
+OptimisticExquisite:Ng5
+OptimisticExquisite:e4
+OptimisticExquisite:e4
+OptimisticExquisite:e4
+OptimisticExquisite:e5
+OptimisticExquisite:e4
+OptimisticExquisite:e5
+OptimisticExquisite:e4
+OptimisticExquisite:e5
+OptimisticExquisite:e4
+OptimisticExquisite:e5
+OptimisticExquisite:e6
+OptimisticExquisite:e6
+OptimisticExquisite:e6
+OptimisticExquisite:e4
+OptimisticExquisite:e5
+OptimisticExquisite:e4
+OptimisticExquisite:e5
+OptimisticExquisite:e4
+OptimisticExquisite:e5
+OptimisticExquisite:e6
+OptimisticExquisite:e4
+OptimisticExquisite:e6
+OptimisticExquisite:e6
+OptimisticExquisite:e5
+OptimisticExquisite:e4
+OptimisticExquisite:e4
+OptimisticExquisite:e3
+OptimisticExquisite:e6
+OptimisticExquisite:e4
+OptimisticExquisite:e5
+OptimisticExquisite:e6
+OptimisticExquisite:e6
+OptimisticExquisite:e4
+OptimisticExquisite:e5
+OptimisticExquisite:e5
+OptimisticExquisite:e4
+OptimisticExquisite:e5
+OptimisticExquisite:e6
+OptimisticExquisite:e3
+Aakash Kulkarni:Ng4
+Aakash Kulkarni:Ng4
+Aakash Kulkarni:Ng4
+Aakash Kulkarni:Ng4
+Aakash Kulkarni:Ng4
+Aakash Kulkarni:Ng4
+Aakash Kulkarni:Ng4
+Aakash Kulkarni:Ng4
+Aakash Kulkarni:Ng4
+Aakash Kulkarni:e4
+Aakash Kulkarni:e4
+OptimisticExquisite:e4
+OptimisticExquisite:e4
+OptimisticExquisite:e4
+OptimisticExquisite:e4
+Aakash Kulkarni:e4
+Aakash Kulkarni:e4
+Aakash Kulkarni:e4
+Aakash Kulkarni:e4
+Aakash Kulkarni:e4
+Aakash Kulkarni:e4
+Aakash Kulkarni:e4
+Aakash Kulkarni:Ng4
+Aakash Kulkarni:Ng4
+Aakash Kulkarni:Ng4
+Aakash Kulkarni:Ng4
+Aakash Kulkarni:Ng4
+Aakash Kulkarni:Ng4
+OptimisticExquisite:e4
+OptimisticExquisite:e4
+OptimisticExquisite:Ng4
+Yash Soni:f3
+Anil Patil:f4
+Aneesh Unnikrishnan:Qxg4
+Riya Ramnani:nh7
+Shourya Joshi:qxg4
+Deepak Pani:qh6
+GAMINGVERZE:f3
+Magicalkiller:qg4
+Pranav:qg4
+Utkarsh Verma:Ne6+
+Om Gupta:ne6
+Patri Sanjana:ke6
+Sangam Kotwal:ne6
+Vishwajeet Damor:Ne6
+Jayant Vashisht:ke6
+Prathmesh:ne6
+Jeel Patel:Ne6
+Crysmar Fielheory:ne6
+Rohan Desai:Ne6+
+Rohit Garg:ne6
+Aman Gupta:ne6
+GAMINGVERZE:ne6
+Cverse:ne6
+Darshit Joshi:ne6
+Anuj Thakur:ne6
+Alpesh Yadav:e6
+saksham kumar:Ne6+
+39 _Vineeth:re6
+Manas Inamdar:ne6
+Abdul Irfan:ke6
+Dharmawati Srivastava:ne6
+The singh:ne6+
+suyash more:nge6
+Abhishek Palav:ke6
+39 _Vineeth:ke6
+Raghuvendra som:Ne6
+Adwait Patankar:ne6
+Nilotpal Puzari:e6
+AKSHAY SATHAWANE:ne6
+Karan Anvekar:Ne6+
+Abhishek Palav:ne6
+Roshan Colaco:ke6
+Rajbeer Singh Saluja:ne6
+Raghuvendra som:Ne6
+Epsha Kashyap:ne6
+Jasman Singh:ne6
+StRïçkën Wãrrìõr:ne6
+ejaz ali:ne6
+Disha:Ne6
+26_Sankalp Kadam:ne6
+Manas Inamdar:ne6
+nairanjith:Ne6
+siddhant adep:Ne6
+Abhishek Khatri:ne7
+AKSHAY SATHAWANE:ne6
+Aditya Mishra:ne6
+The singh:ne6+
+TGR:GAMING YT:ne6
+SUDHANSU RAY:ke6
+Sangam Kotwal:bh6
+StRïçkën Wãrrìõr:bh6
+Jasman Singh:bh6
+Karan Anvekar:Bxh6
+Ankit Gulati:bh6
+Patri Sanjana:bh6
+Abhishek Khatri:bh6
+Vaspar:bh6
+Abdul Irfan:bh6
+The singh:bxh6
+Prashant Mishra:bh6
+siddhant adep:Bh6
+AKSHAY SATHAWANE:bh6
+Anirudh Pranesh:bh6
+Shourya Joshi:bh5
+TGR:GAMING YT:kd6
+Acharya dhruv:bh6
+Raghuvendra som:Bxh6
+Aditya Tiwari:Ne6
+Manas Inamdar:qg4
+The Movie Verse:qg4
+26_Sankalp Kadam:qg4
+Tejesh Jain:qg4+
+AKSHAY SATHAWANE:qg4
+Varun Gotecha:ne6
+nairanjith:Qxg4
+Aakash Kulkarni:bh6
+raja Dinod:ne6
+OptimisticExquisite:bh6
+Acharya dhruv:qg4
+Abhishek Palav:ne6
+Om Gupta:ne6
+Vaspar:ne6
+Shourya Joshi:Ne6
+saksham kumar:ne6+
+Patri Sanjana:ke6
+Rajbeer Singh Saluja:ne6
+Sreekumar E H:Rh1
+Faraz Shaliban:rh1
+Kishna Prakash:rh8
+Jeet Shah:Rh1
+Yashwanth B:rh1
+Vishwajeet Damor:rh1
+Shiwang Gupta:rh1
+Manav Agarwal:bf5
+Subhrajyoti Bhattacharyya:b4
+shivashis kar:b4
+Ashwin Rajesh:ra4
+Ankit Gulati:na5
+Shashi Kumar:b4
+Jovial Joy:b1
+RV18-36 MOHD JUNAID:na5
+Karan Anvekar:Nb4
+Sangam Kotwal:na5
+hari charan:ra4
+Manas Inamdar:g6
+anubhav dureja:na5
+Het Doshi:g6
+Prajwal Lamichhane:bf5
+Vivek Sarkar:Bf5
+MJM Physics IIT K:bf5
+Shiwang Gupta:bf5
+Crysmar Fielheory:b4
+Crysmar Fielheory:bf5
+Hallowin:qc2
+Manas Inamdar:ne7
+Ankit Gulati:nf3
+Hallowin:ke7
+Aranck Jomraj:Qf5
+Vansh Shah:ne7
+Darshit Joshi:ne7
+Sangam Kotwal:ne7
+Abhishek Khatri:ne7
+Subhrajyoti Bhattacharyya:qf5
+Aman Kocharekar:ne7
+Rohit Garg:qa7
+Yudhajeet Bhattacharya:qf5
+Kolla Srujan:ke7
+Sarthak:Qc6
+Prasad:ne7
+Sayan Bera:ne7
+Abhijeet Singh:ke7
+Vishwajeet Damor:kf8
+Swaraj Lonsare:Qc7
+Manas Inamdar:nc6
+Vishwajeet Damor:nc6
+Saumil Pradhan:nc6
+Shashank Pathak:nc6
+Rajbeer Singh Saluja:nc6
+Ameya Joshi:nc6
+Nandini Agarwal:nc6
+Manav Agarwal:nc6
+Dharmawati Srivastava:nc6
+Moin Syed:c6
+Anurag Sethi:qd8
+Ujwal Arora:kc6
+Sayan Bera:nc8
+Saiprasad Salvi:qf5
+Sanskar Rana:qf5
+ChessBase India:nc6
+Chris Cairns:h3
+AKSHAY SATHAWANE:nc6
+Sangam Kotwal:nc6
+W1RE PLAYS:qxa7
+Kolla Srujan:kc6
+Krishna Agarwal:nc6
+Ashwin Rajesh:nc6
+Sameer:c6
+Soumyajit Roy:nc6
+Ganesh naik:nc6
+Abhinav Tripathi:qd8
+Yatin Puri:nc6
+Prasad:ne6
+Rohit Garg:re1
+Manav Agarwal:f3
+Manas Inamdar:f3
+Manav Agarwal:d5
+Aditya Soma:d5
+Saiprasad Salvi:ne5
+Manas Inamdar:a4
+Agrawal chirag:d5
+ChessBase India:d5
+Jeet Shah:d5
+Leontius Fernandes:d5
+Subhrajyoti Bhattacharyya:d5
+Vivek Gupta:d5
+tGwAsees:d5
+Sangam Kotwal:d5
+Cverse:d5
+Shivam Shukla:ne5
+Abhijit Choudhary:d5
+Atharvi Mali:d5
+Aneesh Unnikrishnan:d5
+Saiprasad Salvi:d5
+Himanshu Rankja:re6
+W1RE PLAYS:Rxd6
+Karini Sandeep Kumar:d5
+Abhijit Choudhary:d5
+tGwAsees:d5
+Crysmar Fielheory:d5
+Shivam Shukla:d5
+Samitinjaya Rath:d5
+Rajbeer Singh Saluja:d5
+Abhinav Gupta:d5
+Lithin Suresh:d5
+Pushkar Prashar:d5
+Fahad Haque:qf5
+Abhishek Khatri:d5
+Karini Sandeep Kumar:d5
+Piyush:rxe6
+W1RE PLAYS:Rxd6
+Kevin:d5
+U S:d5
+Disha:d5
+Ganesh naik:re6
+W1RE PLAYS:rxe6
+Mrinmoy Das:d5
+Himanshu Rankja:re6
+General Trends:d5
+Mody Sameeir:d5
+BaseToo YT:d5
+Adwait Patankar:re6
+DAYDREAMER:qf5
+Granthik De:Qf5
+Sangam Kotwal:nc5
+Ashwin Rajesh:d5
+TGR:GAMING YT:d5
+Manas Inamdar:rd1
+Saatvik:ne4
+Rohit Garg:rd1
+Kevin:ne4
+Manas Inamdar:ne4
+Yatin Puri:rd1
+Mody Sameeir:Rad1
+sanket mali:ne4
+Srinivas Bhssr:ne4
+RV18-36 MOHD JUNAID:ne4
+Abhijit Choudhary:f5
+Saatvik:ne4
+Hallowin:nc6
+W1RE PLAYS:Re4
+Vivek Gupta:ne4
+Atharvi Mali:ne4
+Joybrata Basak:ne4
+Piyush:qf3
+Subhrajyoti Bhattacharyya:ne4
+gfaf:ne4
+Souhardyo Chatterjee:ne4
+Yash Yadav:ne4
+Vitrag Shah:ne4
+Faraz Shaliban:ne4
+Himanshu Rankja:ne4
+Pushkar Prashar:ne4
+General Trends:ne4
+Ninjacat Gaming:f4
+Granthik De:Ne4
+Anoop Bhushan:ne4
+harmehak saini:ne4
+Samitinjaya Rath:ne4
+Samarth Kulkarni:ne4
+Sahil Shah:ne4
+Soumen Mitra:ne4
+Prashant Mishra:ne4
+Yashwanth B:ne4
+ChessBase India:ne4
+W1RE PLAYS:ne4
+39 _Vineeth:qe2
+Piyush:Qf3
+Chieeiku:ne4
+tGwAsees:d6
+Rohit Garg:ne4
+yash chauhan:f3
+Ullasini Nayak:ne4
+Praveen:ne4
+Ujwal Arora:ne4
+Aaradhya Wadhwa:f6
+Krishnamoni:ne4
+W1RE PLAYS:Ne4
+Ariz Khan:f6
+Vaibhav Bajaj:f6
+tGwAsees:d6
+Aneesh Unnikrishnan:Ne4
+yash chauhan:qf3
+Abhishek Yadav:f6
+Saiprasad Salvi:ne4
+Anon:Ne4
+Aaradhya Wadhwa:d6
+Ninjacat Gaming:f6
+Sangam Kotwal:ne4
+Mridul Gandhi:Ne4
+Yashodeep Mahapatra:ne4
+akash bardhan:e4
+Gana Rockztar:d6
+Pulkit Srivastava:ne4
+Subhrajyoti Bhattacharyya:d6
+Shivam Shukla:ne4
+Abhishek Yadav:d6
+Abdur Rahman Osama:f4
+Vitrag Shah:ne4
+Raddur Saha:Ne4
+Yatin Puri:ne4
+yash chauhan:qf3
+General Trends:ne4
+Anon:Ne4
+W1RE PLAYS:f4
+Vaibhav Bajaj:ne4
+Karini Sandeep Kumar:ne4
+Vishwajeet Damor:f4
+Swadik Hussain:ne4
+Disha:Ne4
+Gana Rockztar:Ne4
+Sahil Shah:ne4
+Sanjay Barath G:ne4
+Mody Sameeir:Ne4
+Ayush Mishra:ne4
+Agrawal chirag:ne5
+Meghan Bhateja:Qf3
+Komal Sharma:ne4
+Amey Damle:ne4
+Vitrag Shah:ne4
+Cverse:ne4
+Aswin K:ne4
+Vishwajeet Damor:qe6
+Saiprasad Salvi:qe5
+Vitrag Shah:ne4
+Faraz Shaliban:be7
+Abhishek Khatri:rd1
+Manas Inamdar:be7
+General Trends:be7
+Subhrajyoti Bhattacharyya:be7
+Hallowin:bg2
+Sangam Kotwal:rd8
+Cverse:d6
+Vishwajeet Damor:qe5
+Leontius Fernandes:kd5
+Anon:Nd6
+SIDDHARTH GUPTA:nd6
+Srinivas Bhssr:nf6
+Saatvik:rad1
+Manas Inamdar:rd1
+Subhrajyoti Bhattacharyya:rd1
+Yatin Puri:nd6
+Saiprasad Salvi:rad1
+Vishwajeet Damor:qd6
+Darshit Joshi:nd6
+Abhishek Khatri:rd1
+Saatvik:rad1
+Agrawal chirag:rad1
+Abhishek Khatri:rad1
+Sanjay Barath G:rd1
+Vishwajeet Damor:rad1
+Samitinjaya Rath:Rad1
+Ninjacat Gaming:f4
+Srinivas Bhssr:rad1
+Nilesh Dharap:rd1
+Piyush:rd1
+Mody Sameeir:Rad1
+Joybrata Basak:rad1
+G I D E O N:f6
+Kunal Lakra:rad1
+shreyash anarase:rd1
+Deepak Ranga:f4
+Yohaan Cama:rad1
+Karini Sandeep Kumar:rd1
+Raddur Saha:Nd6
+sanket mali:rad1
+Praveen:rad1
+Manas Inamdar:qc7
+Vishwajeet Damor:rd8
+Aaradhya Wadhwa:qc7
+Saiprasad Salvi:qc7
+Agrawal chirag:qc7
+Piyush:rad1
+Mrinal Jain:rad1
+Sangam Kotwal:qc7
+Subhrajyoti Bhattacharyya:be7
+Ninjacat Gaming:rd8
+Shivam Shukla:qc7
+Lokesh Singh:ne4
+vaidik patel:Rd8
+Srinivas Bhssr:qc7
+Vishwajeet Damor:rd8
+Ninjacat Gaming:rd8
+Nilotpal Puzari:rd8
+Mehul Mendiratta:Rd8
+Ayush Mishra:qd5
+Soumen Mitra:rd8
+Deep Khunt:e7
+Anon:rd8
+Himanshu Rankja:qd5
+Divya Prakash:be7
+Manas Inamdar:be7
+Pushkar Prashar:rd8
+BaseToo YT:rd8
+GABU GAMING:qd5
+Saatvik:be7
+Sourav Jha:rd8
+Mrinal Jain:rd8
+Joybrata Basak:bd6
+Samarth Kulkarni:rd8
+Himanshu Rankja:qd5
+Soham XC 33:rd8
+Yohaan Cama:rd8
+Deep Khunt:ke7
+Hallowin:rd8
+Manas Inamdar:qd5
+Ninjacat Gaming:be7
+DAYDREAMER:rd8
+Pulkit Srivastava:nf6
+Abhishek Khatri:bf7
+Vaibhav Bajaj:rd8
+Darshit Joshi:be7
+Sanjay Barath G:be7
+Aswin K:rd8
+divyam gupta:be7
+Aaradhya Wadhwa:be7
+Saiprasad Salvi:bb4
+Kes22497:f5
+Mansingh Soren:rd8
+sanket mali:be7
+Chandan Vanwari:rd8
+PRATIK KAPADIA:kd6
+Kolla Srujan:f5
+Dharmik Vora:bd6
+Tarun Golui:rd8
+Ujwal Arora:rd8
+anonymous 1:rd8
+Jayant Vashisht:ke7
+Aman Sharma:rd8
+Shanthi Murugan:qd5
+baba gola:be7
+Anoop Bhushan:qd5
+Abhijit Choudhary:qd5
+Himanshu Rankja:qd5
+Subhadip Das:rd8
+hardik mehta:bd6
+Ashwin Rajesh:rd8
+Ninjacat Gaming:be7
+Abhishek Khatri:bg7
+Evgeny Slutsker:rad1
+Idris Azad:bb4
+Manas Inamdar:nf6
+Mihir Sahu:be7
+SrV Does:be7
+Archit Chatterjee:qd7
+sanket mali:bg7
+Saiprasad Salvi:bb4
+Nilesh Dharap:be7
+Saatvik:nf6
+Vaibhav Bajaj:nf6
+Himanshu Rankja:nf6
+Shadab Alam:Nf6
+Sangam Kotwal:nf6
+Shekhar Kumbhar:Be7
+abdul Kadir:nf6
+Saatvik:nd6
+Pulkit Srivastava:nf6
+tGwAsees:qd7
+Saatvik:nd6
+baba gola:qd7
+Aswin K:nf6
+Ninjacat Gaming:rd8
+Jayant Vashisht:qd4
+G I D E O N:qd7
+Siddhesh Raj:f4
+Srinivas Bhssr:nd6+
+PRATIK KAPADIA:kd6
+Rohan Pandey:qd7
+Saatvik:nd6
+Aakash Gurbani:f4
+Sourav Jha:qd7
+MD ARAFAT:kf6
+Siddhesh Sankhe:d7
+Ninjacat Gaming:qd7
+Pushkar Prashar:nd6
+Vishesh Gupta:kd6+
+CHIRAG CHAHAL:Qd7
+Vishesh Gupta:nd6+
+baba gola:qd7
+Saatvik:nd6
+Ariz Khan:Qd7
+Yohaan Cama:kd8
+Vishesh Gupta:nd6+
+Rohan Sadaphule:f4
+Vikram Natraj:Nd6+
+Dipesh Kewalramani:nd6+
+MD ARAFAT:nd6
+Music with Prasad:nf6
+Ninjacat Gaming:nd6
+Srinivas Bhssr:nd6
+shreyash anarase:nc6
+Deepak Ranga:f4
+Soham XC 33:nd6
+VJ:Nd6
+Jayant Vashisht:qd4
+Darshit Joshi:nd6
+24. Ritvik Kar:nd6
+Rajbeer Singh Saluja:f4
+sanjeevan pathak:Nd6
+Sudhansubala Sahoo:nd6
+Srinivas Samavedam:Nd6+
+Shivam Shukla:nd6
+DarkKiller YT:nd6
+TESLA:nd6
+Anuj Thakur:ne6
+Ujwal Arora:nd5
+24. Ritvik Kar:nd6
+Critiq:nd6
+Sumit Mehta:kd6
+Srinivas Samavedam:Nd6+
+sanket mali:f4
+lokesh vamsi:Qd7
+sanjeevan pathak:Nd6
+Shadab Alam:Nd6
+Ashwin Rajesh:kd6
+Abhishek Yadav:nd6
+Disha:nd6
+Ujwal Arora:nd6
+Srinivas Samavedam:Nd6+
+TGR:GAMING YT:f4
+24. Ritvik Kar:nd6
+Ashwin Rajesh:nd6
+Siddhesh Raj:nc5
+CHIRAG CHAHAL:f4
+hari charan:f4
+Nirbhay Srivastava:f6
+Yash Poddar:nd6
+Deep Khunt:f4
+hari charan:f4
+MD ARAFAT:nf6
+Saatvik:qc3
+Nirbhay Srivastava:f6
+Deep Khunt:f4
+Manas Inamdar:rd8
+Saiprasad Salvi:qc3
+tGwAsees:0-0
+g123g:nd6
+Faraz Shaliban:red1
+Rohit Garg:qc3
+Rajbeer Singh Saluja:f4
+Sangam Kotwal:nc3
+Ninjacat Gaming:f4
+Luv Sharma:qc3
+Deep Khunt:f6
+hari charan:f4
+Vikram Natraj:Qc3
+Ajinkya Brahmakshatriya:c4
+Raj Borkute:nd6
+Deep Khunt:f4
+Srinivas Bhssr:qc3
+Rohit Garg:qc3
+Shadab Alam:Qc3
+Abhishek Khatri:qc3
+Abhishek Yadav:qc3
+Manas Inamdar:qc3
+DIVERSE KNWL:Nf6
+subash aravindh:qc3
+Jeet Shah:qc3
+suru d:qc3
+Samitinjaya Rath:Qc3
+Chirag Niyogi:qc3
+Darin N.:qc3
+Yash Poddar:qc3
+Ashwin Rajesh:qc3
+Rajbeer Singh Saluja:qc3
+Deepak Ranga:qc3
+Rouchya Mahalanobish:qc3
+shreyash anarase:qc3
+Ujwal Arora:qc3
+satyam upadhyay:qc3
+Abhishek Yadav:qc3
+Siddharth Gaikwad:qc3
+Vedang Arekar:Qc3
+Pushkar Prashar:qc3
+Shadab Alam:Qc3
+Meghan Bhateja:Qc3
+Ajay Matasugur:qc3
+Mahesh:qc3
+MD ARAFAT:qc3
+Ninjacat Gaming:qc3
+Kolla Srujan:qc3
+SANSKAR ASATI:qc3
+Vaibhav Bajaj:qc3
+Siddhesh Sankhe:c3
+tGwAsees:qc3
+Firoz Ahmed:qc3
+Soumen Mitra:qc3
+Sourav Jha:qc3
+Yatin Puri:qc3
+Anuj Thakur:qc3
+Adyasha Ray:qc3
+Sumit Mehta:qc3
+Mansingh Soren:Qc3
+Deep Khunt:qc3
+Koli Katta:f4
+MJM Physics IIT K:qc3
+Krishnamoni:Re6
+sagar vaidya:qc3
+Pushkar Chintaluri:Qc3
+Nirmit Chokhawala:kd6
+Nirmit Chokhawala:kd6
+Nirmit Chokhawala:rd8
+Nirmit Chokhawala:qc3
+Manas Inamdar:b4
+Manas Inamdar:be3
+Agrawal chirag:d4
+VJ:d4
+Music with Prasad:be3
+Arihant Jain:bd2
+Siddhant Lahoti:axb4
+Shivam Shukla:bd2
+Priyank Bhatt:d4
+Akhil Mittal:d4
+Chieeiku:d4
+Aditya Khare:d4
+Swadik Hussain:d4
+Pratyush Kongalla:d4
+Kamal Sharma:ab5
+Vishesh Gupta:bd2
+Syed Shahzer:d4
+Abhishek Khatri:d4
+Sudhansubala Sahoo:be3
+Rajbeer Singh Saluja:be3
+Divya Prakash:bd2
+Manav Agarwal:axb5
+Soumya Mishra:d4
+Deep Khunt:d4
+Jeet Shah:bd2
+Chirag Niyogi:d4
+Pulkit Srivastava:nf5
+Saatvik:d4
+Ishan Joshi:Bxh6
+Breety Sundar Mushahary:re5
+Sanjay Barath G:d4
+Vinayak Swaroop:ab5
+Anon:axb5
+Vinay Gautam:Re4
+Praveen:axb5
+Yatin Puri:d4
+Pranay Toshniwal:d4
+Manan Garg:axb5
+Siddhant Lahoti:axb5
+anubhav dureja:be3
+g123g:ne4
+Saisanju Sreevalsakumar:Ra3
+Nilotpal Puzari:be3
+Agrawal chirag:d4
+Dharmawati Srivastava:be3
+Aditya Singh:axb5
+Mrinmoy Das:d4
+Shivaaliam Music:Be4
+Krishna Sharma:d4
+Raj Borkute:d4
+Saumya Oza:d4
+Yadavendra Sakharkar:bd2
+Meghan Bhateja:ab5
+anonymous 1:bd2
+Ajinkya Brahmakshatriya:d4
+Divya Prakash:bd2
+Rohan Talwar:d4
+Satya Prakash Arya:be3
+PRATIK RATHI:ne5
+Sangam Kotwal:b5
+Mridul Gandhi:Nd2
+ShivamR03:d5
+Srinivas Bhssr:axb5
+Vijay soni:re4
+Ash:axb5
+Hareesh v:re4
+Abhinav Dubey:axb5
+Ritwik Kumar:Bb2
+Patel Dharmik:bb2
+Magnus Carsen:Bb2
+Hrishikesh Anjaria:qf3
+Hrishikesh Anjaria:qf3
+Manas Inamdar:nd3
+c0mplicated:qe2
+Susham Bele:Qg4
+Nishant Seth:f4
+Denil Patel:Qg4
+Hrishikesh Anjaria:qf3
+Yatin Puri:Qg4
+Aditya Sagar:h5
+Akhilendra Pratap Yadav:qg5
+Sangam Kotwal:qf6
+Nitten Bansal:nf7
+Susham Bele:nd3
+Shikhar Rastogi:nd3
+chess brilliance:Nc4
+Ravikant Soni:nd7
+Jeet Shah:Qd7
+Rishil Shah:nd7
+Abdullah Tariq:nd7
+Aashutosh Punjwani:nd3
+Aman Gupta:nd7
+Arinya Kadbe:nd3
+Saatvik:nc4
+U S:nd3
+Syed Shahzer:nc4
+Ron:nc4
+TESLA:nc4
+Deep Shah:Nd3
+Anish Sharma:f4
+Sangam Kotwal:rd1
+Vidur Oberoi:nf6
+Prasad:nd3
+Ayush Rathi:Nc4
+Jayant Kumar:f4
+Sourav Jha:nc4
+TGR:GAMING YT:nc4
+Pragnay Amarthya K:nc4
+Virendra Vengurlekar:nc4
+Vandana Verma:Nd3
+Proteek Chatterjee:nd3
+OptimisticExquisite:e4
+OptimisticExquisite:Ng4
+Anish Naik:d4
+Anish Naik:a4
+Anish Naik:b4
+Anish Naik:f4
+Aliasgar Bohri:a5
+OptimisticExquisite:e4
+OptimisticExquisite:e4
+Aliasgar Bohri:g5
+Priyangsu Sur:g5
+OptimisticExquisite:f5
+CR7 FanClub:e4
+CR7 FanClub:d4
+OptimisticExquisite:e4
+OptimisticExquisite:e5
+OptimisticExquisite:e6
+OptimisticExquisite:e4
+OptimisticExquisite:e4
+OptimisticExquisite:e5
+OptimisticExquisite:e3
+OptimisticExquisite:e4
+OptimisticExquisite:e4
+OptimisticExquisite:e5
+OptimisticExquisite:e6
+OptimisticExquisite:e4
+OptimisticExquisite:o-o
+OptimisticExquisite:0-0
+OptimisticExquisite:e4
+OptimisticExquisite:e4
+OptimisticExquisite:e5
+OptimisticExquisite:e6
+OptimisticExquisite:e6
+OptimisticExquisite:e6
+OptimisticExquisite:e6
+OptimisticExquisite:e6
+OptimisticExquisite:e5
+OptimisticExquisite:e7
+OptimisticExquisite:e6
+OptimisticExquisite:e4
+OptimisticExquisite:e5
+OptimisticExquisite:e4
+OptimisticExquisite:e4
+OptimisticExquisite:e6
+OptimisticExquisite:e6
+OptimisticExquisite:Nf6
+OptimisticExquisite:Nf6
+OptimisticExquisite:e7
+OptimisticExquisite:e7
+OptimisticExquisite:e7
+OptimisticExquisite:e7
+OptimisticExquisite:e7
+OptimisticExquisite:e7
+OptimisticExquisite:e4
+OptimisticExquisite:e4
+OptimisticExquisite:e4
+OptimisticExquisite:e4
+OptimisticExquisite:Ne4
+OptimisticExquisite:e4
+OptimisticExquisite:e5
+OptimisticExquisite:Ne4
+OptimisticExquisite:e5
+OptimisticExquisite:e4
+OptimisticExquisite:e5
+Shah Vihar Ketulkumar:d5
+Shah Vihar Ketulkumar:f6
+Shah Vihar Ketulkumar:Nf6
+Shah Vihar Ketulkumar:O-O
+Shah Vihar Ketulkumar:O-O-O
+Shah Vihar Ketulkumar:d5
+Shah Vihar Ketulkumar:d5
+Shah Vihar Ketulkumar:d5
+OptimisticExquisite:Nf6
+Shah Vihar Ketulkumar:Nf6
+Shah Vihar Ketulkumar:e4
+OptimisticExquisite:e7
+OptimisticExquisite:e7
+OptimisticExquisite:e7
+OptimisticExquisite:e7
+OptimisticExquisite:e7
+OptimisticExquisite:e7
+OptimisticExquisite:e7
+OptimisticExquisite:e7
+OptimisticExquisite:e7
+OptimisticExquisite:e7
+OptimisticExquisite:e7
+OptimisticExquisite:e7
+OptimisticExquisite:e7
+OptimisticExquisite:e7
+OptimisticExquisite:e7
+OptimisticExquisite:e7
+OptimisticExquisite:e7
+OptimisticExquisite:e7
+OptimisticExquisite:e7
+OptimisticExquisite:e7
+OptimisticExquisite:e4
+OptimisticExquisite:e4
+OptimisticExquisite:e4
+OptimisticExquisite:e4
+Shah Vihar Ketulkumar:d5
+Shah Vihar Ketulkumar:f6
+Shah Vihar Ketulkumar:Nf6
+Shah Vihar Ketulkumar:O-O
+Shah Vihar Ketulkumar:O-O-O
+Shah Vihar Ketulkumar:d5
+Shah Vihar Ketulkumar:d5
+Shah Vihar Ketulkumar:d5
+OptimisticExquisite:Nf6
+Shah Vihar Ketulkumar:Nf6
+Shah Vihar Ketulkumar:e4
+OptimisticExquisite:Nc6
+OptimisticExquisite:Hello
+OptimisticExquisite:Hello sir
+OptimisticExquisite:India
+OptimisticExquisite:India
+OptimisticExquisite:South Africa
+OptimisticExquisite:Australia
+OptimisticExquisite:New Zealand
+OptimisticExquisite:India
+OptimisticExquisite:South Africa
